@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UnrealCLR.cpp.obj": [
+			"UnrealCLR.init.gen.cpp.obj",
+			"UnrealCLRLibrary.gen.cpp.obj",
+			"UnrealCLRManager.gen.cpp.obj",
+			"UnrealCLR.cpp.obj",
+			"UnrealCLRFramework.cpp.obj",
+			"UnrealCLRLibrary.cpp.obj",
+			"UnrealCLRManager.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealCLR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\game development\UE5 projects\TheCLR\Intermediate\Build\Win64\x64\TheCLREditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"E:\game development\UE5 projects\TheCLR\Plugins\UnrealCLR\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealCLR\Module.UnrealCLR.cpp.obj"
+"E:\game development\UE5 projects\TheCLR\Plugins\UnrealCLR\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealCLR\Default.rc2.res"
+/OUT:"E:\game development\UE5 projects\TheCLR\Plugins\UnrealCLR\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealCLR\UnrealEditor-UnrealCLR.lib"
